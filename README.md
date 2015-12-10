@@ -1,4 +1,4 @@
 battleship
 ==========
 
-A python based, CLI based battleship single player.
+CLI based battleship single player, build with python.
