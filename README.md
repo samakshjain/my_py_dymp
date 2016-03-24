@@ -1,4 +1,2 @@
-battleship
+random python dump
 ==========
-
-CLI based battleship single player, build with python.
